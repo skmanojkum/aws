@@ -1,0 +1,12 @@
+----AWS System Manager--------
+
+
+- Parameter Store
+ 	Parameter store is part of the Application Management tool offered by the AWS Systems Manager
+	Key-value parameters to save your applications configurations, customer enviornment variable
+
+
+Example : Docker url , username and password
+
+
+
