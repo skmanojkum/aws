@@ -1,0 +1,22 @@
+- Content Delivery Network
+
+- It helps to cache the contents in the nearest location.
+
+
+User(Chennai) -> Website -> S3
+
+User(Montreal)-> Website -> Edge Location -> Cached
+
+It helps to access the directly to Edge Location instead of S3
+It access low latency
+It helps to enhance the security
+Content is already in cached in cloudfront user nearest edge location
+
+
+
+
+Create -> Origin Domain -> 
+
+-> S3
+-> Load balancer
+-> API Gateway
